@@ -1,10 +1,11 @@
 font-size = 12
 font-feature = -dlig,-liga,-calt
+font-thicken = true
 
 background-opacity = 0.9
 background-blur = 20
 unfocused-split-opacity = 0.85
 
-scrollback-limit = 10000
+scrollback-limit = 300000
 
 maximize = true
